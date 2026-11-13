@@ -23,9 +23,10 @@ I build reliable desktop, mobile, and algorithmic software in **C++17 / Qt**, **
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Fit4Life_Flutter](https://github.com/mohaziko/Fit4Life_Flutter)** | Flutter, Dart, Provider, Hive | Cross-platform fitness & nutrition app with training/food tracking, stats charts, QR social sharing, local notifications, and chatbot/chat views |
-| **[mohamed.mohamed-my-works](https://github.com/mohaziko/mohamed.mohamed-my-works)** | C++17, Qt, Flutter, Python, QTest | Engineering portfolio spanning Qt desktop apps (*Drachen*, *Navigation*, *Calculator*), OOP systems (*Bibliothek*), and Python OpenCV/Socket/SQLite tools |
-| **[NavigationSystem](https://github.com/mohaziko/NavigationSystem)** | C++17, Qt Widgets, QTest | Route & graph navigation across German cities implementing Dijkstra's shortest-path algorithm with interactive map UI and automated unit tests |
+| **[Fit4Life – Fitness App](https://github.com/mohaziko/mohamed.mohamed-my-works/tree/main/Fit4Life_Flutter)** | Flutter, Dart, Provider, Hive | Cross-platform fitness & nutrition app with training/food tracking, stats charts, QR social sharing, local notifications, and chatbot/chat views |
+| **[Drachen – Map & Travel Planner](https://github.com/mohaziko/mohamed.mohamed-my-works/tree/main/Drachen)** | C++17, Qt Widgets, `QGraphicsScene`, JSON | Interactive desktop map & travel planner with SVG layers, polymorphic domain model, Haversine POI distances, and JSON persistence |
+| **[Navigation von Deutschland](https://github.com/mohaziko/mohamed.mohamed-my-works/tree/main/Navigation%20von%20Deutschland)** | C++17, Qt Widgets, QTest | Route & graph navigation across German cities implementing Dijkstra's shortest-path algorithm with interactive map UI and automated unit tests |
+| **[Full Portfolio Repository](https://github.com/mohaziko/mohamed.mohamed-my-works)** | C++17, Qt, Flutter, QTest | Complete portfolio including *Calculator*, *Bibliothek* (OOP), GitLab CI configuration, and all university/personal software projects |
 
 ---
 
